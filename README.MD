@@ -1,3 +1,5 @@
+# TON Foundation Unveils Q2, 2023 Grant Recipients
+
 We are pleased to announce TON Foundation’s approved grant recipients for Round 1 of Q2 2023!
 
 The approved grant projects will bring significant value to TON by improving visibility of TON-based applications and Jettons, enabling on-chain lending, providing on-chain contract management and performance monitoring, introducing user-friendly use cases for TON core services, and exposing Toncoin (TON) to a large mobile audience through a TON wallet integration with KaiOS.
